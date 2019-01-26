@@ -1,0 +1,15 @@
+{
+    "name": "avatar/avatar",
+    "authors": [
+        {
+            "name": "guokai",
+            "email": "724331759@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Guok\\Avatar\\": "packages/guok/avatar/src/"
+        }
+    },
+    "require": {}
+}
